@@ -1,7 +1,5 @@
-<h1 align="center">Диана Комова</h1>
-
 <p align="center">
-  Студентка РТУ МИРЭА · Java Backend Developer Intern
+  <img src="./assets/profile-banner.svg" alt="Диана Комова — Java Backend Developer Intern" width="100%" />
 </p>
 
 ## Обо мне
@@ -10,37 +8,44 @@
 
 ## Основной стек
 
-| Направление | Технологии |
-|---|---|
-| Backend | Java 21, Spring Boot, Spring Web, Spring Data JPA, Hibernate / JPA, Bean Validation |
-| API и данные | REST API, PostgreSQL, H2, Swagger / OpenAPI |
-| Сборка и инфраструктура | Maven, Docker, Docker Compose, Git, GitHub Actions |
-| Тестирование | JUnit 5, MockMvc |
-| Дополнительно | React, TypeScript, JavaScript, HTML, CSS / SCSS, Python, Django |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,docker,git,githubactions,react,ts,js,html,css,py,django&perline=7" alt="Java, Spring, Maven, PostgreSQL, Docker, Git, GitHub Actions, React, TypeScript, JavaScript, HTML, CSS, Python и Django" />
+</p>
 
-## Проекты
+<p align="center">
+  <sub>Spring Web · Spring Data JPA · Hibernate / JPA · REST API · H2 · Bean Validation · OpenAPI · JUnit 5 · MockMvc · Docker Compose</sub>
+</p>
 
-### [Telecom Tariff API](https://github.com/dianakomova1/telecom-tariff-api)
+## Лучшие проекты
 
-Учебный REST API для управления тарифами мобильного оператора, клиентами, подключениями и платежами.
-
-- слои Controller, Service, Repository и отдельные DTO;
-- валидация запросов и единый формат ошибок;
-- бизнес-правила для активных подписок и связанных данных;
-- PostgreSQL, локальный профиль H2, Docker Compose, OpenAPI и интеграционные тесты.
-
-`Java 21` · `Spring Boot` · `Spring Data JPA` · `PostgreSQL` · `Docker` · `JUnit 5`
-
-### [Osteria Verde Reservation](https://github.com/dianakomova1/osteria-verde-reservation)
-
-Full-stack приложение для отправки заявок на бронирование столиков в ресторане.
-
-- форма бронирования на React и TypeScript;
-- серверная проверка имени, контактов, даты и количества гостей;
-- генерация кода бронирования;
-- сохранение заявок в PostgreSQL.
-
-`Java 21` · `Spring Boot` · `React` · `TypeScript` · `PostgreSQL` · `Docker Compose`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Telecom Tariff API</h3>
+      <p>Учебный REST API для управления тарифами мобильного оператора, клиентами, подключениями и платежами.</p>
+      <ul>
+        <li>слои Controller, Service, Repository и отдельные DTO;</li>
+        <li>валидация запросов и единый формат ошибок;</li>
+        <li>бизнес-правила для активных подписок и связанных данных;</li>
+        <li>PostgreSQL, профиль H2, Docker Compose, OpenAPI и интеграционные тесты.</li>
+      </ul>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Docker</code> <code>JUnit 5</code></p>
+      <p><a href="https://github.com/dianakomova1/telecom-tariff-api"><strong>Открыть репозиторий →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Osteria Verde Reservation</h3>
+      <p>Full-stack приложение для отправки заявок на бронирование столиков в ресторане.</p>
+      <ul>
+        <li>форма бронирования на React и TypeScript;</li>
+        <li>серверная проверка имени, контактов, даты и количества гостей;</li>
+        <li>генерация кода бронирования;</li>
+        <li>сохранение заявок в PostgreSQL.</li>
+      </ul>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/dianakomova1/osteria-verde-reservation"><strong>Открыть репозиторий →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ## Сейчас изучаю
 
@@ -52,7 +57,7 @@ Full-stack приложение для отправки заявок на бро
 ## GitHub-статистика
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dianakomova1&show_icons=true&hide_border=true&theme=transparent&locale=ru" alt="Статистика GitHub Дианы Комовой" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dianakomova1&amp;theme=github_dark" alt="Статистика GitHub Дианы Комовой" />
 </p>
 
 ## Контакты
